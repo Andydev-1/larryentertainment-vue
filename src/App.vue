@@ -53,17 +53,17 @@ const navOpen = ref(false);
       <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-center text-fuchsia-700 mb-8 md:mb-12">Our Services</h2>
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 md:gap-10">
         <div class="bg-white rounded-2xl shadow-lg p-6 md:p-8 flex flex-col items-center">
-          <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80" alt="DJ Service" class="w-20 h-20 md:w-28 md:h-28 object-cover rounded-full mb-3 md:mb-4" />
+          <img src="https://media.istockphoto.com/id/2185400789/photo/establishing-footage-with-professional-dj-equipment-on-a-club-stage-mixing-decks-controllers.webp?a=1&b=1&s=612x612&w=0&k=20&c=YyA2J6MztDFMy6xtn_C8in1BAP66FchwbJKcGvlgoNo=" alt="DJ Service" class="w-20 h-20 md:w-28 md:h-28 object-cover rounded-full mb-3 md:mb-4" />
           <h3 class="text-xl md:text-2xl font-semibold text-fuchsia-700 mb-1 md:mb-2">DJ Services</h3>
           <p class="text-gray-600 text-center text-sm md:text-base">From weddings to club nights, our DJs keep the dance floor alive with the best beats and mixes.</p>
         </div>
         <div class="bg-white rounded-2xl shadow-lg p-6 md:p-8 flex flex-col items-center">
-          <img src="https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=400&q=80" alt="Live Band" class="w-20 h-20 md:w-28 md:h-28 object-cover rounded-full mb-3 md:mb-4" />
+          <img src="https://media.istockphoto.com/id/2210531481/photo/onstage-portrait-of-black-chanteuse-fronting-jazz-band.webp?a=1&b=1&s=612x612&w=0&k=20&c=rxOin3uWSQEfN6Hpv0h3fp7ZsaMf_llBrZ2PYr7-vt0=" alt="Live Band" class="w-20 h-20 md:w-28 md:h-28 object-cover rounded-full mb-3 md:mb-4" />
           <h3 class="text-xl md:text-2xl font-semibold text-fuchsia-700 mb-1 md:mb-2">Live Bands</h3>
           <p class="text-gray-600 text-center text-sm md:text-base">Book talented live bands for a vibrant, energetic atmosphere at your event.</p>
         </div>
         <div class="bg-white rounded-2xl shadow-lg p-6 md:p-8 flex flex-col items-center">
-          <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80" alt="Event Planning" class="w-20 h-20 md:w-28 md:h-28 object-cover rounded-full mb-3 md:mb-4" />
+          <img src="https://images.unsplash.com/photo-1622988766425-8ecbae9cef6c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZXZlbnRwbGFubmluZ3xlbnwwfHwwfHx8MA%3D%3D" alt="Event Planning" class="w-20 h-20 md:w-28 md:h-28 object-cover rounded-full mb-3 md:mb-4" />
           <h3 class="text-xl md:text-2xl font-semibold text-fuchsia-700 mb-1 md:mb-2">Event Planning</h3>
           <p class="text-gray-600 text-center text-sm md:text-base">We handle every detail, from sound and lighting to scheduling, so you can enjoy your event stress-free.</p>
         </div>
@@ -91,7 +91,7 @@ const navOpen = ref(false);
         <button type="submit" class="bg-fuchsia-700 hover:bg-fuchsia-800 text-white font-bold py-2 md:py-3 px-6 md:px-8 rounded-full shadow transition w-full md:w-auto">Send Message</button>
       </form>
     </div>
-    <img src="https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=600&q=80" alt="Contact Music Crowd" class="w-full md:w-1/3 rounded-2xl shadow-lg mt-6 md:mt-0" />
+    <img src="https://images.unsplash.com/photo-1565035010268-a3816f98589a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGNvbmNlcnR8ZW58MHx8MHx8fDA%3D" alt="Contact Music Crowd" class="w-full md:w-1/3 rounded-2xl shadow-lg mt-6 md:mt-0" />
   </section>
 
   <footer class="bg-gradient-to-r from-fuchsia-700 to-pink-600 text-white py-6 md:py-8 mt-8 md:mt-10">
