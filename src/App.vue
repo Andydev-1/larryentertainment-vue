@@ -8,7 +8,7 @@ const navOpen = ref(false);
     class="flex flex-col md:flex-row items-center justify-between px-4 md:px-10 py-4 bg-gradient-to-r bg-fuchsia-700 to-pink-600 shadow-md sticky top-0 z-50"
   >
     <div class="flex items-center w-full md:w-auto justify-between">
-      <img src="./assets/img/logo1.png" alt="SirLarry Entertainment Logo" class="w-16 h-12 md:w-20 md:h-16 rounded-full shadow mr-2 md:mr-3" />
+      <img src="./assets/img/logo1.png" alt="SirLarry Entertainment Logo" class="w-23 h-12 md:w-30 md:h-16 shadow mr-2 md:mr-3" />
       <!-- Hamburger Icon (Mobile) -->
       <button @click="navOpen = !navOpen" class="md:hidden focus:outline-none" aria-label="Toggle navigation">
         <svg v-if="!navOpen" class="w-8 h-8 text-white" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16"/></svg>
