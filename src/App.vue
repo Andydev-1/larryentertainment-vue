@@ -51,7 +51,7 @@ const navOpen = ref(false);
   <section id="services" class="py-12 md:py-20 px-4 bg-gradient-to-r from-pink-100 to-fuchsia-100">
     <div class="max-w-5xl mx-auto">
       <h2 class="text-2xl sm:text-3xl md:text-4xl font-bold text-center text-fuchsia-700 mb-8 md:mb-12">Our Services</h2>
-      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 md:gap-10">
+      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 md:gap-10">
         <div class="bg-white rounded-2xl shadow-lg p-6 md:p-8 flex flex-col items-center">
           <img src="https://media.istockphoto.com/id/2185400789/photo/establishing-footage-with-professional-dj-equipment-on-a-club-stage-mixing-decks-controllers.webp?a=1&b=1&s=612x612&w=0&k=20&c=YyA2J6MztDFMy6xtn_C8in1BAP66FchwbJKcGvlgoNo=" alt="DJ Service" class="w-20 h-20 md:w-28 md:h-28 object-cover rounded-full mb-3 md:mb-4" />
           <h3 class="text-xl md:text-2xl font-semibold text-fuchsia-700 mb-1 md:mb-2">DJ Services</h3>
@@ -66,6 +66,11 @@ const navOpen = ref(false);
           <img src="https://images.unsplash.com/photo-1622988766425-8ecbae9cef6c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZXZlbnRwbGFubmluZ3xlbnwwfHwwfHx8MA%3D%3D" alt="Event Planning" class="w-20 h-20 md:w-28 md:h-28 object-cover rounded-full mb-3 md:mb-4" />
           <h3 class="text-xl md:text-2xl font-semibold text-fuchsia-700 mb-1 md:mb-2">Event Planning</h3>
           <p class="text-gray-600 text-center text-sm md:text-base">We handle every detail, from sound and lighting to scheduling, so you can enjoy your event stress-free.</p>
+        </div>
+        <div class="bg-white rounded-2xl shadow-lg p-6 md:p-8 flex flex-col items-center">
+          <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80" alt="Food, Catering & Drink Supplies" class="w-20 h-20 md:w-28 md:h-28 object-cover rounded-full mb-3 md:mb-4" />
+          <h3 class="text-xl md:text-2xl font-semibold text-fuchsia-700 mb-1 md:mb-2">Food, Catering & Drink Supplies</h3>
+          <p class="text-gray-600 text-center text-sm md:text-base">Delicious food, professional catering, and a wide selection of drinks to keep your guests satisfied and refreshed.</p>
         </div>
       </div>
     </div>
